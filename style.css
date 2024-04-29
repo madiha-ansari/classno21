@@ -33,19 +33,3 @@
     
             /* flex:1 1 300px; */
     }
-    .child1{
-        /* align-content: flex-start; */
-    }
-    .child2{
-        /* align-self: flex-start; */
-    }
-    .child3{
-        /* flex-grow: 1; */
-        /* flex-shrink: 2; */
-        /* flex:2 1 300px; */
-    }
-    
-    .child4{
-        /* flex-grow: 2; */
-        /* align-self: flex-end; */
-    }
